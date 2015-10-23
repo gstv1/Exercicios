@@ -6,8 +6,7 @@ int main()
     
     while(num<=100)
         
-        printf ("%d", num);
-        num++
+        printf ("%d", num++);
         
 return 0;
 }
